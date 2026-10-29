@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\bin\Debug\ИГРУХА.exe.config
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\bin\Debug\ИГРУХА.exe
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\bin\Debug\ИГРУХА.pdb
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\obj\Debug\ИГРУХА.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\obj\Debug\ИГРУХА.Form1.resources
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\obj\Debug\ИГРУХА.Properties.Resources.resources
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\obj\Debug\ИГРУХА.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\obj\Debug\ИГРУХА.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\obj\Debug\ИГРУХА.exe
+C:\Users\student\Desktop\ИГРУХА\ИГРУХА\obj\Debug\ИГРУХА.pdb
